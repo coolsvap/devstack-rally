@@ -10,7 +10,7 @@ Prerequisites:
 
 Steps
 -----
-1. Clone devstack-rally from devstack-rally
+1. Clone devstack-rally
 ```
 $git clone https://github.com/svashu/devstack-rally
 ```
